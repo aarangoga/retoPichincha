@@ -1,0 +1,6 @@
+[submodule "ApiChallenge"]
+	path = ApiChallenge
+	url = https://github.com/aarangoga/ApiChallenge
+[submodule "AbstractaChallenge"]
+	path = AbstractaChallenge
+	url = https://github.com/aarangoga/AbstractaChallenge
